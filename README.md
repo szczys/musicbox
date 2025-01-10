@@ -30,3 +30,13 @@ Normalize tracks so volumes are relatively the same
 sudo apt install normalize-audio
 normalize-audio -m *
 ```
+
+## Network access
+
+Plug the device into Ethernet
+
+```
+ssh root@orangepipcplus.lan
+```
+
+Password: `orangepi`
